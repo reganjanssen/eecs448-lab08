@@ -1,0 +1,47 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(192, 129, 129);
+    background-color: skyblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    color: darkblue;
+    background-color:skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p {
+    color: rgb(109, 109, 245);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+iframe {
+    width:420px;
+    height:345px;
+    display:block;
+    margin: auto;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+ul {
+    display: inline;
+}

@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    text-align: center;
+    color: rgb(192, 129, 129);
+}
+
+p {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: arial;
+    border-style: solid;
+    border-color: skyblue;
+    border-width: 15px;
+    background-color:royalblue;
+}
+
+h2 {
+    color: rgb(192, 129, 129);
+}
